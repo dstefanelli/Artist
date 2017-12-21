@@ -1,0 +1,24 @@
+/*!
+	Theme Name: Invitations
+	Author: Diego Stefanelli
+	Version: 1.0
+	Author URI: http://www.diegostefanelli.com
+	Theme URI: http://www.diegostefanelli.com/invitations
+	Tags: 
+	Description: This is a description for the Invitations theme.
+	License: GNU General Public License v2 or later
+	License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+@import "vendor/normalize";
+//@import "vendor/bourbon/bourbon";
+@import "grid-settings";
+@import "base";
+@import "typography";
+@import "components";
+@import "wp-base";
+@import "header";
+@import "navigation";
+@import "content";
+@import "post-formats";
+@import "footer";
